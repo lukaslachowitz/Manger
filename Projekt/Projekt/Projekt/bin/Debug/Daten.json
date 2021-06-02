@@ -1,0 +1,15 @@
+[
+  {
+    "Vorname": "Philipp",
+    "Nachname": "Hager",
+    "Anrede": "Div.",
+    "Telefonnummer": "067666655454",
+    "Ort": "wien",
+    "Geburtsdatum": "2021-06-01T00:00:00",
+    "Abteilung": "IT",
+    "Adresse": "Jenullen",
+    "Adresszusatz": "50",
+    "SZ": 987654321.0,
+    "IBAN": "AT7808650"
+  }
+]
